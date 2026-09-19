@@ -74,8 +74,20 @@ Contains organizational structure, staff details, and compensation data.
 | Data Categorization | `CASE WHEN ... ELSE` | Groups numerical data into custom qualitative categories like high/medium/low. |
 
 ---
+# 🎯 Project Objective
 
-💻 Tools & Technologies
-PostgreSQL
-pgAdmin 4
-SQL
+The objective of this project is to practice and demonstrate practical SQL skills for:
+
+- Retrieving and transforming data from relational tables
+- Combining data using different types of JOINs
+- Using subqueries for data comparison and analysis
+- Working with date and time functions
+- Cleaning and transforming text using string functions
+- Performing calculations using aggregate functions
+- Applying conditional logic using the CASE expression
+- Using window functions for ranking and running calculations
+
+# 💻 Tools & Technologies
+- PostgreSQL
+- pgAdmin 4
+- SQL
