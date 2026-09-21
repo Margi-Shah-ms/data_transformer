@@ -51,6 +51,13 @@ Contains organizational structure, staff details, and compensation data.
 ### 3. Employees:
 <img width="766" height="190" alt="image" src="https://github.com/user-attachments/assets/ec98adf8-06d8-46e1-ad38-754573611c92" />
 
+### Discount based on total amount: 
+<img width="333" height="190" alt="image" src="https://github.com/user-attachments/assets/4f9ede26-422f-4b37-8f53-eab85865300c" />
+
+###  Categorize employees' salaries as high, medium, low
+<img width="654" height="191" alt="image" src="https://github.com/user-attachments/assets/f40cc772-62a0-4083-9d54-a55e3861f3ab" />
+
+
 ## Topics & Solutions Covered
 
 | Topic | Key SQL Concept | One-Line Explanation |
